@@ -21,7 +21,7 @@ HTML         5 mins          ▒░░░░░░░░░░░░░░░░
 ### A little more about me...  
 
 ```javascript
-const mujahid = {
+const Rizqi = {
     pronouns: "He" | "Him",
     code: ["Kotlin", "Java", "JavaScript", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "graphic design"],
